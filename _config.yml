@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Davide Usula / Academic Website"
+title                    : "Davide Usula"
 title_separator          : "-"
 name                     : &name "Davide Usula"
 description              : &description "I'm fourth year PhD student at at Sant’Anna School of Advanced Studies, under the supervision of Maria Enrica Virgillito and Giovanni Dosi."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "website_profile.png"
   name             : "Davide Usula"
   pronouns         : # example: "he/him"  
   bio              : ""
