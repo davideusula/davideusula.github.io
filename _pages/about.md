@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at the [Sant'Anna School of Advanced Studies](https://www.santannapisa.it/) in Pisa, working under the supervision of **Maria Enrica Virgillito** and **Giovanni Dosi**. My research lies at the intersection of labor economics, macroeconomic dynamics, and political economy. I study how (labor market) power and market structure shape income distribution, with a particular focus on worker bargaining power, the labor share, and the macroeconomic consequences of distributive conflict. 
+I am a fourth-year PhD student at the [Sant'Anna School of Advanced Studies](https://www.santannapisa.it/) in Pisa, working under the supervision of [Maria Enrica Virgillito](https://docenti.unicatt.it/ppd2/it/docenti/58848/maria-enrica-virgillito/profilo) and [Giovanni Dosi](https://www.santannapisa.it/it/giovanni-dosi). My research lies at the intersection of labor economics, macroeconomic dynamics, and political economy. I study how (labor market) power and market structure shape income distribution, with a particular focus on worker bargaining power, the labor share, and the macroeconomic consequences of distributive conflict. 
 
 I pursue my research across complementary dimensions. At the macroeconomic level, I develop theoretical macrodynamic (reduced form) models and conduct empirical analysis of aggregate distributive-inflation regimes. At the meso and micro levels, I examine industry and firm-level occupational structures to understand how worker power affects income distribution, especially the declining labor share in US manufacturing and wage dynamics. 
 
