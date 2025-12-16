@@ -33,10 +33,3 @@ From January to June 2026, I will a visiting PhD student at the Department of Ec
 **University**: Sant'Anna School of Advanced Studies  
 **City**: 56127 Pisa, Italy
 
-**Academic Profiles**:
-
-- [GitHub](https://github.com/davideusula)
-- [LinkedIn](https://it.linkedin.com/in/davide-usula-569a51310)
-- [Twitter/X](https://twitter.com/usula_davide)
-- [Bluesky](https://bsky.app/profile/davideusula.bsky.social)
-
