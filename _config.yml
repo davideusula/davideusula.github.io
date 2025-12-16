@@ -9,14 +9,15 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Davide Usula"
+title                    : "Davide Usula - PhD Student"
 title_separator          : "-"
 name                     : &name "Davide Usula"
 description              : &description "I'm fourth year PhD student at at Sant’Anna School of Advanced Studies, under the supervision of Maria Enrica Virgillito and Giovanni Dosi."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://davideusula.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "davideusula/davideusula.github.io"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,18 +27,16 @@ author:
   avatar           : "website_profile.png"
   name             : "Davide Usula"
   pronouns         : # example: "he/him"  
-  bio              : ""
-  location         : ""
+  bio              : "PhD student in Economics at Sant'Anna School of Advanced Studies, Pisa."
+  location         : "Pisa, Italy"
   employer         : "Sant'Anna School of Advanced Studies, Pisa"
-  uri              : # URL
+  uri              : "https://davideusula.github.io"
   email            : "davide.Usula@santannapisa.it" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  
   googlescholar    : ""
-  inspire-hep      : # URL
-  impactstory      : # URL
+  
   
 
 
@@ -49,41 +48,21 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media
-  artstation       : # Username
-  bluesky          : "davideusula.bsky.social" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : "Davide Usula"# Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : "usula_davide"# Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  # Social media - Keep only what you use
+  bluesky          : "davideusula.bsky.social"
+  linkedin         : "davide-usula"  # Solo l'username, non il nome completo
+  twitter          : "usula_davide"
+  # Commenta o elimina gli altri social che non usi
+  # facebook         : # Username
+  # instagram        : # Username
+  # ecc...
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  articles:
+    title: 'Publications'    
+  work in progress:
+    title: 'Working Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
