@@ -1,19 +1,12 @@
 ---
 layout: single
-title: "About"
+title: ""
 permalink: /
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-# Davide Usula
-
-**PhD Student in Economics**  
-Sant'Anna School of Advanced Studies, Pisa, Italy
-
-## Short Biography
 
 I am a fourth-year PhD student at the [Sant'Anna School of Advanced Studies](https://www.santannapisa.it/) in Pisa, working under the supervision of **Maria Enrica Virgillito** and **Giovanni Dosi**. My research lies at the intersection of labor economics, macroeconomic dynamics, and political economy. I study how (labor market) power and market structure shape income distribution, with a particular focus on worker bargaining power, the labor share, and the macroeconomic consequences of distributive conflict. 
 
@@ -41,8 +34,7 @@ From January to June 2026, I will a visiting PhD student at the Department of Ec
 **City**: 56127 Pisa, Italy
 
 **Academic Profiles**:
-- [Google Scholar](#) *(to add when available)*
-- [ORCID](#) *(to add when available)*
+
 - [GitHub](https://github.com/davideusula)
 - [LinkedIn](https://it.linkedin.com/in/davide-usula-569a51310)
 - [Twitter/X](https://twitter.com/usula_davide)
