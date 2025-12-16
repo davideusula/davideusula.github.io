@@ -136,9 +136,9 @@ analytics:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _pages     # ✅ AGGIUNGI IL TRATTINO
   - files
-   - assets/css/custom.css   # AGGIUNGI QUESTA RIGA
+  - assets/css/custom.css   # ✅ AGGIUNGI QUESTA RIGA
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
