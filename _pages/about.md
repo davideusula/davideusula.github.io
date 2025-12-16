@@ -12,7 +12,7 @@ I am a fourth-year PhD student at the [Sant'Anna School of Advanced Studies](htt
 
 I pursue my research across complementary dimensions. At the macroeconomic level, I develop theoretical macrodynamic (reduced form) models and conduct empirical analysis of aggregate distributive-inflation regimes. At the meso and micro levels, I examine industry and firm-level occupational structures to understand how worker power affects income distribution, especially the declining labor share in US manufacturing and wage dynamics. 
 
-From January to June 2026, I will a visiting PhD student at the Department of Economics, University of Massachusetts Amherst, under the supervision of [Arin Dube](https://arindube.com).
+From January to June 2026, I will be a visiting PhD student at the Department of Economics, University of Massachusetts Amherst, under the supervision of [Arin Dube](https://arindube.com).
 
 
 ## Research Interests
