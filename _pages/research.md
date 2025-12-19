@@ -39,6 +39,8 @@ The common thread across these projects is the idea that **who has power over pr
 *Status:* Work in progress  
 *Expected:* Working paper version Fall 2026  
 
+# Work in progress
+
 
 ## Publications
 
