@@ -41,7 +41,7 @@ The common thread across these projects is the idea that **who has power over pr
 
 ### Work in progress
 
-[The Inflation-Distribution Nexus: A Comprehensive Review of Mechanisms and Empirical Findings]
+[The Inflation-Distribution Nexus: A Comprehensive Review of Mechanisms and Empirical Findings]()
 
 *Status:* Work in progress  
 *Expected:* Working paper version Spring 2027  
