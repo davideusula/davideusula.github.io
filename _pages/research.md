@@ -14,3 +14,7 @@ The core of my research is the distributive conflict between wages and profits �
 
 At the macroeconomic level, my research examines how tensions between firms’ price-setting behavior and workers’ wage-setting capacity can trigger inflationary spirals driven by distributive claims. In this view, inflation is not merely a monetary phenomenon, but an emergent property of an economy where workers and firms contest the income share, giving rise to different macroeconomic regimes (for example, more wage-led or more profit-led).
 
+
+
+
+jjjjjj
