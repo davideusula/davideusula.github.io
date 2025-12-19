@@ -43,6 +43,6 @@ The common thread across these projects is the idea that **who has power over pr
 ### 2024
 **Dosi, G., Usula, D., & Virgillito, M.E.** (2024). "Increasing returns and labor markets in a predator–prey model."  
 *Journal of Evolutionary Economics*, 34(2), 375-402.  
-[PDF](/assets/pdf/dosi-usula-virgillito-2024.pdf) | [Article](https://link.springer.com/article/10.1007/s00191-024-00861-x) | [DOI](https://doi.org/10.1007/s00191-024-00861-x)
+[PDF](/assets/pdf/dosi_usula_virgillito_2024.pdf) | [Article](https://link.springer.com/article/10.1007/s00191-024-00861-x) | [DOI](https://doi.org/10.1007/s00191-024-00861-x)
 
 
