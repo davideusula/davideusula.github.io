@@ -60,7 +60,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   articles:
-    title: 'Publications'    
+    title: 'Research'    
   work in progress:
     title: 'Working Papers'
 
@@ -195,13 +195,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
