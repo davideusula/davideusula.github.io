@@ -22,3 +22,9 @@ At the firm level, my research examines the internal organization of work- speci
 The common thread across these projects is the idea that **who has power over prices and wages – and how this power is distributed and structured across sectors and occupations 
 – is central to understanding income distribution (i.e., labor share dynamics), and macroeconomic instability**. Worker power is endogenously determined by institutional configurations, market structure, and the cyclical state of the economy. Understanding these dynamics is essential for both explaining the past four decades of labor share decline and for designing policies that address the distributional roots of contemporary economic challenges.
 
+
+## Working Papers
+
+
+
+
