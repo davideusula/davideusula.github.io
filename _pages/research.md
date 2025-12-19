@@ -36,10 +36,16 @@ The common thread across these projects is the idea that **who has power over pr
 
 [Behind the Labor-Share Decline: Worker Power, Market Structure, and Technological Regimes in U.S. Manufacturing](\assets/pdf/abstract_usula_2025.pdf) 
 
-*Status:* Work in progress  
+*Status:* Preliminary draft  
 *Expected:* Working paper version Fall 2026  
 
 ### Work in progress
+
+[The Inflation-Distribution Nexus: A Comprehensive Review of Mechanisms and Empirical Findings]
+
+*Status:* Work in progress  
+*Expected:* Working paper version Spring 2027  
+
 
 
 ## Publications
