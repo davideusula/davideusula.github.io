@@ -26,7 +26,9 @@ The common thread across these projects is the idea that **who has power over pr
 ## Working Papers
 
 [Regimes of distributive conflict and inflation spirals](/assets/pdf/dosi_usula_virgillito_2025.pdf)
+
 *Replication Code*: Available soon 
+
 *Presented at:* Dynamics \& Complexity Pisa 2024;  Macro-HET Workshop, Siena; 65th Annual Meeting of the Italian Economic Association 2024, Urbino; 2024 Sant’Anna PhD workshop, Pisa;  Lunch Seminars Department of Economics and Management, Pisa; 28th Annual Workshop on Economics with Heterogeneous Interacting Agents (Queen Mary University), London; 31st International Conference Computing in Economics and Finance, Santiago de Chile.
 
 
