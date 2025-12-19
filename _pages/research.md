@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: ""
 permalink: /research/
 layout: single
 ---
@@ -14,7 +14,11 @@ The core of my research is the distributive conflict between wages and profits �
 
 At the macroeconomic level, my research examines how tensions between firms’ price-setting behavior and workers’ wage-setting capacity can trigger inflationary spirals driven by distributive claims. In this view, inflation is not merely a monetary phenomenon, but an emergent property of an economy where workers and firms contest the income share, giving rise to different macroeconomic regimes (for example, more wage-led or more profit-led).
 
+At the meso (sectoral) level, I investigate the declining labor share in U.S. manufacturing and propose a new mechanism centered on **granular worker power**. The key insight is that worker power is not uniform across occupations or sectors— it varies systematically with the **division of labor within firms** and the **technological structure of production**. Specifically, I focus on the differential vulnerability of **production versus non-production workers** to cyclical fluctuations. Production workers, who are typically more exposed to cyclical risk and have less bargaining leverage, see their **rent-sharing power** (capacity to convert productivity gains into wages) eroded particularly sharply during downturns. This mechanism is **mediated by sectoral technological regimes** in U.S. manufacturing. Different sectors exhibit different combinations of internal labor hierarchies, knowledge specificity, and demand elasticity over the cycle. These sectoral characteristics determine how exposed particular occupational groups are to cyclical shocks and how severely their bargaining power deteriorates in  recessions. Sectors with rigid hierarchies, capital-intensive production, and high demand cyclicality exhibit the most pronounced labor share declines, precisely because production workers in these contexts lose bargaining power most dramatically during downturns. Critically, worker power exhibits pronounced **cyclical asymmetry**: losses during recessions are substantially larger than gains during expansions. This asymmetry reflects the structural vulnerability of certain occupational groups—particularly production workers in scale-intensive sectors—whose rent-sharing capacity is far more damaged by negative shocks than enhanced by positive ones.
+
+At the firm level, my research examines the internal organization of work- specifically, how occupational hierarchies, wage-setting practices, and the distribution of bargaining power within firms reflect and reinforce the broader macro and sectoral dynamics. This level of analysis is currently in development and promises to provide the microeconomic foundations for understanding how income distribution operates at more aggregate levels.
 
 
+The common thread across these projects is the idea that **who has power over prices and wages – and how this power is distributed and structured across sectors and occupations 
+– is central to understanding income distribution (i.e., labor share dynamics), and macroeconomic instability**. Worker power is endogenously determined by institutional configurations, market structure, and the cyclical state of the economy. Understanding these dynamics is essential for both explaining the past four decades of labor share decline and for designing policies that address the distributional roots of contemporary economic challenges.
 
-jjjjjj
