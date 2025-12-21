@@ -28,14 +28,14 @@ author:
   name             : "Davide Usula"
   pronouns         : # example: "he/him"  
   bio              : "PhD student in Economics at Sant'Anna School of Advanced Studies, Pisa."
-  location         : "Pisa, Italy"
-  employer         : "Sant'Anna School of Advanced Studies, Pisa"
+  location         : ""
+  employer         : ""
   uri              : "https://davideusula.github.io"
   email            : "davide.Usula@santannapisa.it" 
 
   # Academic websites
   
-  googlescholar    : ""
+ # googlescholar    : ""
   
   
 
